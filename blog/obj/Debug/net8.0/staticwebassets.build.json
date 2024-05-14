@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "IQ5LKZ8GSN/8UyR6JIVSPUgVnDJ6B/SQfMBkGQaRbJM=",
+  "Source": "blog",
+  "BasePath": "_content/blog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "blog/wwwroot",
+      "Source": "blog",
+      "ContentRoot": "/Users/angela/Desktop/C##/blog/blog/wwwroot/",
+      "BasePath": "_content/blog",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/angela/Desktop/C##/blog/blog/wwwroot/css/form.css",
+      "SourceId": "blog",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/angela/Desktop/C##/blog/blog/wwwroot/",
+      "BasePath": "_content/blog",
+      "RelativePath": "css/form.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/form.css"
+    },
+    {
+      "Identity": "/Users/angela/Desktop/C##/blog/blog/wwwroot/css/style.css",
+      "SourceId": "blog",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/angela/Desktop/C##/blog/blog/wwwroot/",
+      "BasePath": "_content/blog",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/style.css"
+    }
+  ]
+}
